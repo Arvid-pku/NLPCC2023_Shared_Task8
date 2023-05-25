@@ -31,6 +31,14 @@ All updates about this shared task will be posted on this page.
 - 2023/05/31：participants’ results submission deadline
 - 2023/06/10：evaluation results release and call for system reports and conference paper
 
+
+## Team Rank
+| rank | team | char-detect-P | char-detect-R | char-detect-F1 | char-correct-P | char-correct-R | char-correct-F1 | sentence-FPR |
+| ---- | ---- | ------------- | ------------- | -------------- | -------------- | -------------- | ---------------- | ------------- |
+| 1 |  lixiang  | 64.11 | 38.44 | 48.06 | 57.88 | 34.7 | 43.39 | 6.88 |
+| 2 | PRED | 34.69 | 52.85 | 41.89 | 32.29 | 49.19 | 38.99 | 3.00 |
+
+
 ## Dataset
 
 The development dataset comprises of 1000 sentence pairs, consisting of both incorrect and correct sentences. The file format is such that each line contains a raw sentence followed by its corresponding correct answer, separated by a tab character: **Input**`\t`**Gold**. (For further details, please refer to the `data` folder.)
