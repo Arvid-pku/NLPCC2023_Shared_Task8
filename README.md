@@ -38,8 +38,10 @@ All updates about this shared task will be posted on this page.
 | 1 |    test_best1    | 64.11 | 38.44 | 48.06 | 57.88 | 34.7 | 43.39 | 6.88 |
 | 2 |     NLPCC_TASK8_PRED     | 34.69 | 52.85 | 41.89 | 32.29 | 49.19 | 38.99 | 3.0 |
 | 3 |  LinWancong-TingZhiDui-HainanUniversity-ResultSubmission052601  | 38.9 | 39.44 | 39.17 | 32.98 | 33.44 | 33.21 | 3.76 |
-| 4 |   Haojing Huang-RTX5090-Tsinghua Shenzhen International Graduate School-Result Submission052601   | 26.76 | 40.33 | 32.17 | 23.22 | 35.0 | 27.92 | 8.04 |
-| 5 | Xiaoying Wang-ZZUNLP-zzu-ResultSubmission052601 | 19.3 | 44.78 | 26.97 | 15.2 | 35.26 | 21.24 | 4.44 |
+| 4 |      Hao Yang-HW-TSC-Huawei Text Machine Translation Lab-ResultSubmission052601      | 24.78 | 50.85 | 33.32 | 22.34 | 45.85 | 30.04 | 11.32 |
+| 5 |   Haojing Huang-RTX5090-Tsinghua Shenzhen International Graduate School-Result Submission052601   | 26.76 | 40.33 | 32.17 | 23.22 | 35.0 | 27.92 | 8.04 |
+| 6 | Xiaoying Wang-ZZUNLP-zzu-ResultSubmission052601 | 19.3 | 44.78 | 26.97 | 15.2 | 35.26 | 21.24 | 4.44 |
+
 
 
 ## Dataset
