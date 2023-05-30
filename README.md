@@ -35,48 +35,7 @@ All updates about this shared task will be posted on this page.
 ## Team Rank
 | rank | team | char-detect-P | char-detect-R | char-detect-F1 | char-correct-P | char-correct-R | char-correct-F1 | sentence-FPR |
 | ---- | ---- | ------------- | ------------- | -------------- | -------------- | -------------- | ---------------- | ------------- |
-| 1 |                                  lixiang-GGbond-ECNU-ResultSubmission052904                                  | 83.13 | 50.19 | 62.59 | 79.45 | 47.96 | 59.81 | 3.72 |
-| 2 |                                         lixiang-GGbond-ECNU-ResultSubmission052905                                         | 86.87 | 48.04 | 61.87 | 83.26 | 46.04 | 59.29 | 2.88 |
-| 3 |                       lixiang-GGbond-ECNU-ResultSubmission052903                       | 77.72 | 52.33 | 62.55 | 73.65 | 49.59 | 59.27 | 5.64 |
-| 4 |                lixiang-GGbond-ECNU-ResultSubmission052902                | 70.85 | 55.19 | 62.05 | 66.19 | 51.56 | 57.97 | 8.56 |
-| 5 |                                   lixiang-GGbond-ECNU-ResultSubmission052908                                   | 77.11 | 51.04 | 61.42 | 72.58 | 48.04 | 57.81 | 5.88 |
-| 6 |                                lixiang-GGbond-ECNU-ResultSubmission052906                                | 88.7 | 45.33 | 60.0 | 85.14 | 43.52 | 57.6 | 2.44 |
-| 7 |                          lixiang-GGbond-ECNU-ResultSubmission052907                          | 88.7 | 45.33 | 60.0 | 85.14 | 43.52 | 57.6 | 2.44 |
-| 8 |             Siqi Song-GLN-Soochow University-ResultSubmission052901             | 81.97 | 47.15 | 59.87 | 78.36 | 45.07 | 57.23 | 4.0 |
-| 9 |                               lixiang-GGbond-ECNU-ResultSubmission052901                               | 59.19 | 58.67 | 58.93 | 54.41 | 53.93 | 54.17 | 14.8 |
-| 10 |                     lixiang-GGbond-ECNU-ResultSubmission052601                     | 67.77 | 50.15 | 57.64 | 62.36 | 46.15 | 53.04 | 7.72 |
-| 11 |  Hao Yang-HW-TSC-Huawei Text Machine Translation Lab-ResultSubmission052902  | 66.55 | 49.59 | 56.83 | 60.44 | 45.04 | 51.62 | 13.28 |
-| 12 |                             Hao Yang-HW-TSC-Huawei Text Machine TranslationLab-ResultSubmission052903                             | 65.97 | 47.67 | 55.35 | 59.25 | 42.81 | 49.71 | 12.36 |
-| 13 |     Hao Yang-HW-TSC-Huawei Text Machine Translation Lab-ResultSubmission052903     | 65.97 | 47.67 | 55.35 | 59.25 | 42.81 | 49.71 | 12.36 |
-| 14 |                                        Hao Yang-HW-TSC-Huawei Text Machine Translation Lab-ResultSubmission052701                                        | 62.47 | 49.93 | 55.5 | 55.79 | 44.59 | 49.57 | 12.44 |
-| 15 |            Hao Yang-HW-TSC-Huawei Text Machine Translation Lab-ResultSubmission052901            | 57.38 | 54.26 | 55.78 | 50.61 | 47.85 | 49.19 | 13.4 |
-| 16 |      Haojing Huang-RTX5090-Tsinghua Shenzhen International Graduate School-Result Submission052802      | 75.14 | 39.41 | 51.7 | 69.63 | 36.52 | 47.91 | 3.4 |
-| 17 |       Haojing Huang-RTX5090-Tsinghua Shenzhen International Graduate School-Result Submission052901       | 72.39 | 38.85 | 50.56 | 67.15 | 36.04 | 46.91 | 4.16 |
-| 18 |                            WancongLin-TingZhiDui-HainanUniversity-ResultSubmission052904                            | 74.87 | 43.37 | 54.92 | 62.79 | 36.37 | 46.06 | 5.32 |
-| 19 |                                      Haojing Huang-RTX5090-Tsinghua Shenzhen International Graduate School-Result Submission052702                                      | 74.28 | 37.11 | 49.49 | 69.01 | 34.48 | 45.98 | 2.84 |
-| 20 |                         Haojing Huang-RTX5090-Tsinghua Shenzhen International Graduate School-Result Submission052801                         | 76.19 | 36.04 | 48.93 | 71.42 | 33.78 | 45.87 | 2.28 |
-| 21 |          Haojing Huang-RTX5090-Tsinghua Shenzhen International Graduate School-Result Submission052701          | 74.22 | 37.0 | 49.38 | 68.95 | 34.37 | 45.87 | 2.84 |
-| 22 |                                 WancongLin-TingZhiDui-HainanUniversity-ResultSubmission052905                                 | 74.87 | 43.37 | 54.92 | 62.4 | 36.15 | 45.78 | 5.32 |
-| 23 |                    LinWancong-TingZhiDui-HainanUniversity-ResultSubmission052701                    | 82.33 | 38.81 | 52.75 | 70.93 | 33.44 | 45.45 | 3.24 |
-| 24 |   WancongLin-TingZhiDui-HainanUniversity-ResultSubmission052901   | 66.49 | 46.74 | 54.89 | 54.95 | 38.63 | 45.37 | 7.64 |
-| 25 |                      WancongLin-TingZhiDui-HainanUniversity-ResultSubmission052902                      | 66.49 | 46.74 | 54.89 | 54.9 | 38.59 | 45.32 | 7.64 |
-| 26 |        Feng Jiang-CUHK_SU-The Chinese University of Hong Kong Hong Kong Shenzhen and Soochow University-Results        | 79.48 | 33.0 | 46.64 | 76.98 | 31.96 | 45.17 | 1.76 |
-| 27 |                                    WancongLin-TingZhiDui-HainanUniversity-ResultSubmission052801                                    | 70.04 | 41.74 | 52.31 | 58.79 | 35.04 | 43.91 | 5.56 |
-| 28 |                   WancongLin-TingZhiDui-HainanUniversity-ResultSubmission052903                   | 78.36 | 38.63 | 51.75 | 65.14 | 32.11 | 43.02 | 3.72 |
-| 29 |                                       LinWancong-TingZhiDui-HainanUniversity-ResultSubmission052702                                       | 45.16 | 47.74 | 46.41 | 39.24 | 41.48 | 40.33 | 11.12 |
-| 30 |                                     LinWancong-TingZhiDui-HainanUniversity-ResultSubmission052703                                     | 45.35 | 47.7 | 46.5 | 39.01 | 41.04 | 40.0 | 11.16 |
-| 31 |               Haojing Huang-RTX5090-Tsinghua Shenzhen International Graduate School-Result Submission052703               | 71.08 | 30.41 | 42.6 | 65.37 | 27.96 | 39.17 | 3.16 |
-| 32 |                        NLPCC_TASK8_PRED                        | 34.69 | 52.85 | 41.89 | 32.29 | 49.19 | 38.99 | 3.0 |
-| 33 |         Haojing Huang-RTX5090 Tsinghua Shenzhen International Graduate School-Result Submission052904         | 47.37 | 34.74 | 40.08 | 39.6 | 29.04 | 33.51 | 14.52 |
-| 34 |    LinWancong-TingZhiDui-HainanUniversity-ResultSubmission052601    | 38.9 | 39.44 | 39.17 | 32.98 | 33.44 | 33.21 | 3.76 |
-| 35 |                           Hao Yang-HW-TSC-Huawei Text Machine Translation Lab-ResultSubmission052601                           | 24.78 | 50.85 | 33.32 | 22.34 | 45.85 | 30.04 | 11.32 |
-| 36 |              zhanghuan_modelout              | 27.64 | 48.41 | 35.19 | 22.92 | 40.15 | 29.18 | 44.48 |
-| 37 |                              Haojing Huang-RTX5090 Tsinghua Shenzhen International Graduate School-Result Submission052903                              | 63.17 | 23.19 | 33.93 | 52.77 | 19.37 | 28.34 | 3.88 |
-| 38 |                 Haojing Huang-RTX5090-Tsinghua Shenzhen International Graduate School-Result Submission052601                 | 26.76 | 40.33 | 32.17 | 23.22 | 35.0 | 27.92 | 8.04 |
-| 39 |                  FengXilong-POLab-zut-Result Submission052901                  | 19.44 | 29.74 | 23.51 | 18.16 | 27.78 | 21.96 | 2.36 |
-| 40 | Xiaoying Wang-ZZUNLP-zzu-ResultSubmission052601 | 19.3 | 44.78 | 26.97 | 15.2 | 35.26 | 21.24 | 4.44 |
-| 41 |           FengXilong-POLab-zut-Result Submission052801           | 18.68 | 21.93 | 20.17 | 17.48 | 20.52 | 18.88 | 1.56 |
-
+TO DO
 
 ## Dataset
 
