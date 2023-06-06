@@ -33,9 +33,21 @@ All updates about this shared task will be posted on this page.
 
 
 ## Team Rank
-| rank | team | char-detect-P | char-detect-R | char-detect-F1 | char-correct-P | char-correct-R | char-correct-F1 | sentence-FPR |
-| ---- | ---- | ------------- | ------------- | -------------- | -------------- | -------------- | ---------------- | ------------- |
-TO DO
+| rank | team member | team | char-detect-P | char-detect-R | char-detect-F1 | char-correct-P | char-correct-R | char-correct-F1 | sentence-FPR |
+| ---- | ---- | ------------- | ------------- | -------------- | -------------- | -------------- | ---------------- | ------------- | ------------- |
+| 1 |  Xiang Li, Hanyue Du, Yike Zhao| GGbond  | 79.95 | 50.52 | 61.92 | 76.03 | 48.04 | 58.88 | 4.4 |
+| 2 |          Hao Yang, Zhiqiang Rao, Daimeng Wei, Hengchao Shang, Zongyao Li, Zhengzhe Yu, Shaojun Li, Zhanglin Wu, Jiaxin Guo, Yuhao Xie, Bin Wei, Jiawei Zheng|HW-TSC         | 78.77 | 50.85 | 61.8 | 73.9 | 47.7 | 57.98 | 5.96 |
+| 3 |    Siqi Song, Lei Geng , Qi Lv , Haonan Chen|GLN    | 81.97 | 47.15 | 59.87 | 78.36 | 45.07 | 57.23 | 4.0 |
+| 4 |         Haiming Wu, Ao Jia, Zelin Li|Zhao jia         | 85.92 | 39.33 | 53.96 | 79.05 | 36.19 | 49.65 | 1.92 |
+| 5 |            Haojing Huang, Yinghui Li, Hai-tao Zheng, Peng Xing |RTX5090            | 75.14 | 39.41 | 51.7 | 69.63 | 36.52 | 47.91 | 3.4 |
+| 6 |      Wancong Lin, Mingjie Han, Hongfei Ye|TingZhiDui      | 74.87 | 43.37 | 54.92 | 62.79 | 36.37 | 46.06 | 5.32 |
+| 7 |   Feng Jiang, Yaxin Fan|CUHK_SU   | 79.48 | 33.0 | 46.64 | 76.98 | 31.96 | 45.17 | 1.76 |
+| 8 |           Jindian Su, Xiaobin Lin, Yunhao Xie, Zehua Cheng|CSCJXYZ        | 78.31 | 35.3 | 48.66 | 72.14 | 32.52 | 44.83 | 4.68 |
+| 9 |        Yao Zhang, WenXian Liu, ShuTing Tian, Sun Yuan|HHS      | 56.04 | 36.96 | 44.54 | 48.34 | 31.89 | 38.43 | 11.04 |
+| 10 |     Yuxuan Lai, Huan Zhang | OUC_NLP     | 27.64 | 48.41 | 35.19 | 22.92 | 40.15 | 29.18 | 44.48 |
+| 11 |       Xilong Feng, Xing Liu, Shubo Ji, Qiang Huo |POLab    | 19.49 | 33.74 | 24.71 | 18.23 | 31.56 | 23.11 | 2.84 |
+| 12 | Xiaoying Wang, Hongfei Xu, Yang Song, Lingling Mu|ZZUNLP | 19.3 | 44.78 | 26.97 | 15.2 | 35.26 | 21.24 | 4.44 |
+
 
 ## Dataset
 
