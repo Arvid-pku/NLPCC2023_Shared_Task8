@@ -44,7 +44,7 @@ All updates about this shared task will be posted on this page.
 | 7 |   Feng Jiang, Yaxin Fan|CUHK_SU   | 79.48 | 33.0 | 46.64 | 76.98 | 31.96 | 45.17 | 1.76 |
 | 8 |           Jindian Su, Xiaobin Lin, Yunhao Xie, Zehua Cheng|CSCJXYZ        | 78.31 | 35.3 | 48.66 | 72.14 | 32.52 | 44.83 | 4.68 |
 | 9 |        Yao Zhang, WenXian Liu, ShuTing Tian, Sun Yuan|HHS      | 56.04 | 36.96 | 44.54 | 48.34 | 31.89 | 38.43 | 11.04 |
-| 10 |     Yuxuan Lai, Huan Zhang | OUC_NLP     | 27.64 | 48.41 | 35.19 | 22.92 | 40.15 | 29.18 | 44.48 |
+| 10 |     Yuxuan Lai, Huan Zhang | OUC_NLP     | 51.67 | 30.33 | 38.22 | 43.85 | 25.74 | 32.44 | 8.52 |
 | 11 |       Xilong Feng, Xing Liu, Shubo Ji, Qiang Huo |POLab    | 19.49 | 33.74 | 24.71 | 18.23 | 31.56 | 23.11 | 2.84 |
 | 12 | Xiaoying Wang, Hongfei Xu, Yang Song, Lingling Mu|ZZUNLP | 19.3 | 44.78 | 26.97 | 15.2 | 35.26 | 21.24 | 4.44 |
 
